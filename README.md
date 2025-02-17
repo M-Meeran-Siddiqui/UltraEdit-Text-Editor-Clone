@@ -28,11 +28,8 @@ This project is a **fully responsive and interactive** clone of the **UltraEdit 
 ![Page 3](assets/Project_Preview/Page_3.png)  
 
 ## 📽️ Project Demo  
-### 🎥 Option 1: YouTube Video  
+### 🎥 Watch on YouTube  
 [![Watch the Video](https://img.youtube.com/vi/WqLkCP5KR40/0.jpg)](https://youtu.be/WqLkCP5KR40)
-
-### 🎥 Option 2: GitHub Direct Video  
-[Download and Watch the Video](https://github.com/M-Meeran-Siddiqui/UltraEdit-Text-Editor-Clone/raw/main/assets/project-preview/Project_2.mp4)
 
 ## 📂 Installation & Usage  
 1. Clone this repository:  
