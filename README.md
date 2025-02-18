@@ -22,11 +22,6 @@ This project is a **fully responsive and interactive** clone of the **UltraEdit 
 🔹 **Advanced text editing capabilities**  
 🔹 **File handling & saving options**  
 
-## 📸 Project Preview  
-![Page 1](assets/Project_Preview/Page_1.png)  
-![Page 2](assets/Project_Preview/Page_2.png)  
-![Page 3](assets/Project_Preview/Page_3.png)  
-
 ## 📽️ Project Demo  
 ### 🎥 Watch on YouTube  
 [![Watch the Video](https://img.youtube.com/vi/WqLkCP5KR40/0.jpg)](https://youtu.be/WqLkCP5KR40)
